@@ -12,6 +12,7 @@ button {
     font-size: large;
     border-radius: 5px;
     cursor: pointer;
+    color: black;
 }
 
 button:hover {
